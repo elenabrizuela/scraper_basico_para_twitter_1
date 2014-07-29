@@ -9,7 +9,7 @@ import urllib2
 # QUERY es una VARIABLE que contiene un texto que define que la consulta que queremos hacer,
 # acá se pueden introducir varios operadores como "from:nombre", que devuelve tweets enviados desde ese usuario
 # más info de estos operadores acá: https://dev.twitter.com/docs/using-search
-QUERY = '@robertosukerman since:2012-06-01 until:2012-06-05'
+QUERY = '#tedxcordoba since:2014-06-01 until:2014-07-30'
 RESULTS_PER_PAGE = '100'
 LANGUAGE = 'es'
 NUM_PAGES = 1000 
